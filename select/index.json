@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "チーズ",
+  "base_artist": "Chinozo",
+  "createdAt": "2025-12-09T06:25:58.943566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チーズ",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/01_チーズ_Chinozo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チーズ",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/02_チーズ_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベーグルにハム&チース",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/03_ベーグルにハム&チース_°C-ute.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チーズ",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_チーズ_Chinozo.txt"
+    }
+  ]
+}
